@@ -6,7 +6,7 @@
 
 Entry for [The Meeting That Should Have Been One Line](https://make.fun/c/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c) on make.fun.
 
-`main.ts` writes a single sentence (101 characters) to `/output/entry.txt`:
+`main.ts` writes a single sentence (95 characters) to `/output/entry.txt`:
 
 > This meeting could have been an email, but the email would have needed a meeting to explain it.
 
